@@ -1,3 +1,3 @@
 ## Yajaira
 #### Garza
-Se modifico el encabezado de nivel 2 a nivel 4
+![Image of Github](https://jvitelli.com/wp-content/uploads/2022/05/github-copilot.jpg)
